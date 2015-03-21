@@ -1,0 +1,17 @@
+[mail]
+filename = <FILENAME>-release-<DATE>-rev<VERSION>
+body1 = 
+	
+body0 = 
+	Name of file: <FILENAME>
+	Name of file without extension: <DOCNAME>
+	Folder where document is placed: <DOCFOLDER>
+	Full path to document: <DOCPATH>
+	Date as above: <DATE>
+	Version as above<VERSION>
+mailpath = c:\temp\hehe
+body2 = 
+	regards
+	<USER>
+subject = Approval of <DOCNAME>-release-<DATE>-rev<VERSION>
+
